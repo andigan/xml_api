@@ -1,0 +1,23 @@
+{
+  "name": "cathy_andrew_project",
+  "version": "0.1.0",
+  "description": "Spotify project",
+  "engines": {
+    "node": "7.x",
+    "npm": "3.x"
+  },
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/andigan/xml_api"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "group",
+  "license": "none",
+  "devDependencies": {
+  }
+}
