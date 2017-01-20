@@ -51,8 +51,7 @@ $( document ).ready(function() {
       a_element.setAttribute('id', item['id'])
       a_element.classList.add('artist_link')
       artists_list.appendChild(a_element)
-
-
+      artists_list.appendChild(document.createElement('br'))
 
       // list_item_element.textContent = item['name']
       // artists_list.appendChild(list_item_element)
